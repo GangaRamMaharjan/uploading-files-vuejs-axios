@@ -2,13 +2,17 @@
   "name": "uploading-files-vuejs-axios",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15",
     "vue": "^3.0.0"
   },
   "devDependencies": {
