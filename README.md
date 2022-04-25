@@ -49,3 +49,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### the server side code (index.js) is included###
+### vue.config.js is included
+### 1. npm install express nodemon
+### 2. npm install nodemon
+### 3. npm run start
+### 4. npm run serve 
+### to use web for uploading files.
