@@ -1,9 +1,9 @@
 <template>
 	<div class="container">
 		<div>
-			<h2>Single File</h2>
+			<h2>GRM_Single File</h2>
 			<hr/>
-			<label>File
+			<label>check_File
 				<input type="file" @change="handleFileUpload( $event )"/>
 			</label>
 			<br>
